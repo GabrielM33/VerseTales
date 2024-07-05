@@ -6,4 +6,6 @@ VerseTales is an application that blends physical books with virtual reading. As
 
 ## Check out the [Demo Video](https://www.youtube.com/watch?v=oHwej7SsMUY) on YouTube
 
-![Bookshelf](https://github.com/GabrielM33/VerseTales/assets/123421871/420ae7fa-61de-476c-b341-b3aa6ec3a425)
+![bookshelf2](https://github.com/GabrielM33/VerseTales/assets/123421871/a94193bd-e086-4d62-a7e5-00b601adc931)
+
+![Bookshelf3](https://github.com/GabrielM33/VerseTales/assets/123421871/ca0006b1-fd2b-417b-a933-56722de3bd79)
