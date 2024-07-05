@@ -4,7 +4,7 @@
 
 VerseTales is an application that blends physical books with virtual reading. As you are reading the text, your environment around you adjusts creating a setting similar to one defined in the book. Pretty cool to think about how this could redefine reading a “nighttime story” to your kids and get them excited about reading.
 
-## Check out the [Demo Video](https://www.youtube.com/watch?v=oHwej7SsMUY) on YouTube
+## Check out the [Demo Video](https://youtu.be/9xrUOPLw0-k) on YouTube
 
 ![bookshelf2](https://github.com/GabrielM33/VerseTales/assets/123421871/a94193bd-e086-4d62-a7e5-00b601adc931)
 
